@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1610999900 source:/home/spacewitch/Documentos/GitHub/estudos-backend/C/Revisao/main.c
-	<stdio.h>
-	<stdlib.h>
-
-1611099860 source:/home/spacewitch/Documentos/GitHub/estudos-backend/C/Revisao/exercicios.c
-	<stdio.h>
-
