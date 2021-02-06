@@ -1,0 +1,15 @@
+E:\Documentos\GitHub\estudos-backend\Cursos\Microlins\cadastroClientes\bin\Debug\netcoreapp3.1\cadastroClientes.exe
+E:\Documentos\GitHub\estudos-backend\Cursos\Microlins\cadastroClientes\bin\Debug\netcoreapp3.1\cadastroClientes.deps.json
+E:\Documentos\GitHub\estudos-backend\Cursos\Microlins\cadastroClientes\bin\Debug\netcoreapp3.1\cadastroClientes.runtimeconfig.json
+E:\Documentos\GitHub\estudos-backend\Cursos\Microlins\cadastroClientes\bin\Debug\netcoreapp3.1\cadastroClientes.runtimeconfig.dev.json
+E:\Documentos\GitHub\estudos-backend\Cursos\Microlins\cadastroClientes\bin\Debug\netcoreapp3.1\cadastroClientes.dll
+E:\Documentos\GitHub\estudos-backend\Cursos\Microlins\cadastroClientes\bin\Debug\netcoreapp3.1\cadastroClientes.pdb
+E:\Documentos\GitHub\estudos-backend\Cursos\Microlins\cadastroClientes\obj\Debug\netcoreapp3.1\cadastroClientes.csprojAssemblyReference.cache
+E:\Documentos\GitHub\estudos-backend\Cursos\Microlins\cadastroClientes\obj\Debug\netcoreapp3.1\cadastroClientes.csproj.GenerateResource.cache
+E:\Documentos\GitHub\estudos-backend\Cursos\Microlins\cadastroClientes\obj\Debug\netcoreapp3.1\cadastroClientes.AssemblyInfoInputs.cache
+E:\Documentos\GitHub\estudos-backend\Cursos\Microlins\cadastroClientes\obj\Debug\netcoreapp3.1\cadastroClientes.AssemblyInfo.cs
+E:\Documentos\GitHub\estudos-backend\Cursos\Microlins\cadastroClientes\obj\Debug\netcoreapp3.1\cadastroClientes.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\estudos-backend\Cursos\Microlins\cadastroClientes\obj\Debug\netcoreapp3.1\cadastroClientes.dll
+E:\Documentos\GitHub\estudos-backend\Cursos\Microlins\cadastroClientes\obj\Debug\netcoreapp3.1\cadastroClientes.pdb
+E:\Documentos\GitHub\estudos-backend\Cursos\Microlins\cadastroClientes\obj\Debug\netcoreapp3.1\cadastroClientes.genruntimeconfig.cache
+E:\Documentos\GitHub\estudos-backend\Cursos\Microlins\cadastroClientes\obj\Debug\netcoreapp3.1\cadastroClientes.formInicio.resources
