@@ -2,10 +2,23 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <script src="js/main.js"></script>
+    <script src="js/main.js" type="text/javascript"></script>
     <title>hora da aula</title>
 </head>
-<body style="background-color: black; color: white;">
+<body style="background-color: black; color: white;" onload="load()">
+    <!--onload é para executar quando carregar-->
     <h1>Minha Página</h1>
+    <button type="button" onclick="clicou()">Clique aqui</button>
+    <h3 id="thanks"></h3>
+    <button type="button" onclick="redirecionar1()">a</button>
+    <button type="button" onclick="redirecionar2()">b</button>
+    <!-- função(this)  -o "this" significa que está passando a si mesmo como parâmetro -->
+    <p onmouseover="trocar(this)" onmouseout="voltar(this) ">Passe o mouse aqui</p>
+    <!--onchange = sempre que mudar o valor ele executa algo-->
+    <select name="seletor" onchange="funChange(this)">
+        <option value="1">aaa</option>
+        <option value="2">bbb</option>
+        <option value="3">ccc</option>
+    </select>
 </body>
 </html>
